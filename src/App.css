@@ -1,0 +1,42 @@
+#canvas {
+  width: 500px;
+  float: left;
+}
+
+input[type="range"] {
+  -webkit-transform: rotate(90deg);
+}
+
+.slidebar-multithumb {
+  float: left;
+  display: grid;
+}
+
+.slidebar-multithumb input[type="range"] {
+  grid-column: 1;
+  grid-row: 2;
+  pointer-events: none;
+}
+
+.slidebar-multithumb ::-webkit-slider-thumb {
+  pointer-events: auto;
+}
+
+.thmub {
+  -webkit-appearance: none;
+}
+
+.clear {
+  clear: both;
+}
+
+button {
+  margin: 10px;
+  height: 80px;
+  font-size: 3em;
+}
+
+input[type="color"] {
+  width: 300px;
+  height: 100px;
+}
