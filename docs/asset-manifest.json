@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.ef1a8963.css",
-    "main.js": "/static/js/main.f6d76c61.js",
-    "static/js/787.0bfccc2a.chunk.js": "/static/js/787.0bfccc2a.chunk.js",
-    "index.html": "/index.html",
-    "main.ef1a8963.css.map": "/static/css/main.ef1a8963.css.map",
-    "main.f6d76c61.js.map": "/static/js/main.f6d76c61.js.map",
-    "787.0bfccc2a.chunk.js.map": "/static/js/787.0bfccc2a.chunk.js.map"
+    "main.css": "/PyramidMaker/static/css/main.ef1a8963.css",
+    "main.js": "/PyramidMaker/static/js/main.587d3a06.js",
+    "static/js/787.0bfccc2a.chunk.js": "/PyramidMaker/static/js/787.0bfccc2a.chunk.js",
+    "index.html": "/PyramidMaker/index.html",
+    "main.ef1a8963.css.map": "/PyramidMaker/static/css/main.ef1a8963.css.map",
+    "main.587d3a06.js.map": "/PyramidMaker/static/js/main.587d3a06.js.map",
+    "787.0bfccc2a.chunk.js.map": "/PyramidMaker/static/js/787.0bfccc2a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ef1a8963.css",
-    "static/js/main.f6d76c61.js"
+    "static/js/main.587d3a06.js"
   ]
 }
